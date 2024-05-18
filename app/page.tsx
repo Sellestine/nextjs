@@ -1,3 +1,4 @@
+import { fetchInvoicesPages } from '@/app/lib/data';
 <img
   src="/hero.png"
   alt="Screenshots of the dashboard project showing desktop version"
